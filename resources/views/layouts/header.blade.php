@@ -12,6 +12,7 @@
 <link href="{{ asset('css/style.css') }}" rel="stylesheet">
 <link href="{{ asset('css/blue.css') }}" rel="stylesheet">
 <link href="{{ asset('css/morris.css') }}" rel="stylesheet">
+<link href="{{ asset('sweetalert2-master/dist/sweetalert2.css') }}" rel="stylesheet">
 <!-- Ionicons -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/ionicons/2.0.1/css/ionicons.min.css">
 <link rel="stylesheet" href="//cdn.datatables.net/1.10.13/css/jquery.dataTables.min.css">
